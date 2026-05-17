@@ -1,0 +1,22 @@
+# Node
+node_modules/
+dist/
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+env/
+.env
+
+# Models
+backend/ai_models/*.pth
+backend/ai_models/*.pkl
+backend/ai_models/*.pt
+
+# OS
+.DS_Store
+Thumbs.db
